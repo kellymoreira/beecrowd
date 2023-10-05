@@ -8,5 +8,5 @@
 | ID | Title | Solution | Category |
 |---| ----- | -------- | ---------- |
 |1000|[Hello World!](https://www.beecrowd.com.br/judge/en/problems/view/1000) | [JavaScript](./Solutions/HelloWorld!)|Easy|
-|1001|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions/ExtremelyBasic)|Easy|
+|1001|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions/ExtremelyBasic/1001.js)|Easy|
 

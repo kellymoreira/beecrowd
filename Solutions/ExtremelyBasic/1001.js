@@ -1,0 +1,26 @@
+// EXTREMELY BASIC
+
+/*****************************************************************************************************************
+* 
+* Read 2 variables, named A and B and make the sum of these two variables, assigning its result to the variable X.
+* Print X as shown below. 
+* Print endline after the result otherwise you will get “Presentation Error”.
+*               
+******************************************************************************************************************/
+
+const path = require('path');
+const currentFile = path.dirname(process.argv[1]);
+
+var input = require('fs').readFileSync(currentFile + '\\dev\\stdin', 'utf8');
+var lines = input.split('\r\n');
+
+// COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
+
+let a, b, x;
+
+a = parseInt(lines[0]); // Reads the first entry.
+b = parseInt(lines[1]); // Reads the second entry.
+
+x = a + b;
+
+console.log("X = " + x)

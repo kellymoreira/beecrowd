@@ -5,8 +5,8 @@
   
 ## Exercícios do beecrowd
 
-| ID | Title | Solution | Category |
+| ID | Title | Solution | Subject |
 |---| ----- | -------- | ---------- |
-|1000|[Hello World!](https://www.beecrowd.com.br/judge/en/problems/view/1000) | [JavaScript](./Solutions/HelloWorld!)|Easy|
-|1001|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions/ExtremelyBasic/1001.js)|Easy|
+|1000|[Hello World!](https://www.beecrowd.com.br/judge/en/problems/view/1000) | [JavaScript](./Solutions/HelloWorld!)|Sequential|
+|1001|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions/ExtremelyBasic/1001.js)|Sequential|
 

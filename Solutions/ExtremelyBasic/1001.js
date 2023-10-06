@@ -12,7 +12,6 @@
 * Print the letter X (uppercase) with a blank space before and after the equal signal followed by the value.
 *               
 ******************************************************************************************************************/
-
 const path = require('path');
 const currentFile = path.dirname(process.argv[1]);
 

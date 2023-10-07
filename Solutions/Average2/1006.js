@@ -1,9 +1,9 @@
 // AVERAGE 2
 
-/********************************************************************************************************************
+/************************************************************************************************************************
 * 
-* Read three values (variables A, B and C), which are the three student's grades. 
-* Then, calculate the average, considering that grade A has weight 2, grade B has weight 3 and the grade C has weight 5
+* Read three values (variables A, B, and C), which are the three student's grades. 
+* Then, calculate the average, considering that grade A has weight 2, grade B has weight 3 and grade C has weight 5
 * Consider that each grade can go from 0 to 10.0, always with one decimal place.
 *
 * INPUT
@@ -12,7 +12,7 @@
 * OUTPUT
 * Print the message "MEDIA" and the student's average with a blank space before and after the equal signal.
 *               
-********************************************************************************************************************/
+************************************************************************************************************************/
 
 const fileSystem = require('fs');
 const endereco = require('path');
@@ -27,15 +27,15 @@ console.log(lines);
 
 // To read individual values on more than one line:
 
-// Read three values (variables A, B and C), which are the three student's grades.
+// Read three values (variables A, B, and C), which are the three student's grades.
 // The input file contains 3 values of floating points (double) with one digit after the decimal point.
-let notaA = parseFloat(lines.shift());
-let notaB = parseFloat(lines.shift());
-let notaC = parseFloat(lines.shift());
+let gradeA = parseFloat(lines.shift());
+let gradeB = parseFloat(lines.shift());
+let gradeC = parseFloat(lines.shift());
 
-// Then, calculate the average, considering that grade A has weight 2, grade B has weight 3 and the grade C has weight 5.
+// Then, calculate the average, considering that grade A has weight 2, grade B has weight 3 and grade C has weight 5.
 // Consider that each grade can go from 0 to 10.0, always with one decimal place.
-let MEDIA = ((notaA * 2) + (notaB * 3) + (notaC * 5)) / 10;
+let MEDIA = ((gradeA * 2) + (gradeB * 3) + (gradeC * 5)) / 10;
 
 // Print the message "MEDIA"(average in Portuguese) and the student's average, with a blank space before and after the equal signal.
 console.log("MEDIA = " + MEDIA.toFixed(1));

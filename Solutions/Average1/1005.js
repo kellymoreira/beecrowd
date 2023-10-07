@@ -1,5 +1,4 @@
 // AVERAGE 1
-
 /********************************************************************************************************************
 * 
 * Read two floating points' values of double precision A and B, corresponding to two student's grades.

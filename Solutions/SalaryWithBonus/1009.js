@@ -1,5 +1,4 @@
 // SALARY WITH BONUS
-
 /**********************************************************************************************************************
 * 
 * Make a program that reads a seller's name, his/her fixed salary and the sale's total made by himself/herself in the 

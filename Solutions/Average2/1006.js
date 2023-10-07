@@ -1,5 +1,4 @@
 // AVERAGE 2
-
 /********************************************************************************************************************
 * 
 * Read three values (variables A, B and C), which are the three student's grades. 

@@ -1,4 +1,5 @@
 // SALARY
+
 /********************************************************************************************************************
 * 
 * Write a program that reads an employee's number, his/her worked hours number in a month 

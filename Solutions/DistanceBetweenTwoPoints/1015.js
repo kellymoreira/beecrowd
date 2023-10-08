@@ -9,7 +9,8 @@
 *
 * INPUT
 * The input file contains two lines of data. 
-* The first one contains two double values: x1 y1 and the second one also contains two double values with one digit after * the decimal point: x2 y2.
+* The first one contains two double values: x1 y1 and the second one also contains two double values with one digit after 
+* the decimal point: x2 y2.
 *
 * OUTPUT
 * Calculate and print the distance value using the provided formula, with 4 digits after the decimal point.
@@ -27,12 +28,12 @@ console.log(lines);
 
 // COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
 
-// get the first value from the stdin file:
+// Get the first value from the stdin file:
 let [x1, y1] = lines[0].split(" ").map(item => Number(item)); // Read the four values corresponding to the x and y axes of two points in the plane, p1 (x1, y1).
 
-// get the second value from the stdin file:
+// Get the second value from the stdin file:
 let [x2, y2] = lines[1].split(" ").map(item => Number(item)); // p2 (x2, y2) and calculate the distance between them.
 
-let distancia = Math.sqrt(Math.pow((x2 - x1), 2) + Math.pow((y2 - y1), 2)); // The formula.
+let distance = Math.sqrt(Math.pow((x2 - x1), 2) + Math.pow((y2 - y1), 2)); // The formula.
 
-console.log(distancia.toFixed(4)); // showing four decimal places after the comma, according to the formula.
+console.log(distance.toFixed(4)); // Showing four decimal places after the comma, according to the formula.

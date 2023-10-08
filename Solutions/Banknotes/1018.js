@@ -34,9 +34,17 @@ console.log(lines);
 let integerValue = parseInt(lines.shift());
 const banknotes = [100, 50, 20, 10, 5, 2, 1];
 
+console.log(integerValue);
+
 for (const notes of banknotes) {
   const quantityNotes = parseInt(integerValue / notes);
-  console.log(`${quantityNotes} nota(s) de R$ ${notes.toFixed(2)}`);
+  
+  if (notes === 1) {
+    console.log(`${quantityNotes} nota(s) de R$ 1,00`);
+  } else {
+    console.log(`${quantityNotes} nota(s) de R$ ${notes.toFixed(2).replace('.', ',')}`); // It uses ${notes.toFixed(2).replace('.', ',')} to format the banknote value in the desired format. For example, if the banknote is 50, it formats it as "50,00" with a comma as the decimal separator, consistent with Portuguese currency formatting.
+  }
+  
   integerValue %= notes;
 }
 

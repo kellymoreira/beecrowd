@@ -9,7 +9,7 @@
 * The input file contains an integer N.
 * 
 * OUTPUT
-* Print the read time in the input file (seconds) converted in hours:minutes:seconds.
+* Print the read time in the input file (seconds) converted into hours:minutes:seconds.
 *
 ********************************************************************************************************************/
 

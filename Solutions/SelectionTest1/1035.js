@@ -33,7 +33,7 @@ console.log(lines);
 // To read more than one individual value on the same line
 let [A,B,C,D] = lines.shift().split(" "); // Read 4 integer values A, B, C and D.
 
-if (B > C && D > A && (A + B) < (C + D) && C > 0 && D > 0 && A % 2 === 0 ) { // Then if B is greater than C and D is greater than A and if the sum of C and D is greater than the sum of A and B and if C and D were positives values and if A is even, write the message “Valores aceitos” (Accepted values). 
+if (B > C && D > A && (A + B) < (C + D) && C > 0 && D > 0 && A % 2 === 0 ) { // Then if B is greater than C and D are greater than A and if the sum of C and D is greater than the sum of A and B and if C and D were positives values and if A is even, write the message “Valores aceitos” (Accepted values). 
  console.log("Valores aceitos")
 } else { // Otherwise, write the message “Valores nao aceitos” (Values not accepted).
  console.log("Valores nao aceitos")

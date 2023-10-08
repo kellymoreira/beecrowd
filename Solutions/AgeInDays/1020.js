@@ -40,7 +40,7 @@ ageInDays = ageInDays % 365;
 ageInMonths = parseInt(ageInDays / 30);
 ageInDays = ageInDays % 30;
 
-// And print it in years, months and days, followed by its respective message “ano(s)”, “mes(es)”, “dia(s)”.
+// And print it in years, months, and days, followed by its respective message “ano(s)”, “mes(es)”, “dia(s)”.
 console.log(`${ageInYears} ano(s)`);
 console.log(`${ageInMonths} mes(es)`);
 console.log(`${ageInDays} dia(s)`);

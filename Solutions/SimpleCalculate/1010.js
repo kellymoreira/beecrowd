@@ -2,8 +2,8 @@
 
 /*************************************************************************************************************************
 *
-* In this problem, the task is to read a code of a product 1, the number of units of product 1, the price for one unit 
-* of product 1, the code of a product 2, the number of units of product 2 and the price for one unit of product 2. 
+* In this problem, the task is to read a code of product 1, the number of units of product 1, the price for one unit 
+* of product 1, the code of product 2, the number of units of product 2, and the price for one unit of product 2. 
 * After this, calculate and show the amount to be paid.
 *
 * INPUT
@@ -12,7 +12,7 @@
 *
 * OUTPUT
 * The output file must be a message like the following example where "Valor a pagar" means Value to Pay. 
-* Remember the space after ":" and after "R$" symbol. The value must be presented with 2 digits after the point. 
+* Remember the space after ":" and after the "R$" symbol. The value must be presented with 2 digits after the point. 
 *
 *************************************************************************************************************************/
 
@@ -29,9 +29,9 @@ console.log(lines);
 
 // To read individual values on a single line:
 
-// Read a code of a product 1, the number of units of product 1, the price for one unit of product 1, the code of a product 2, the number of units of product 2 and the price for one unit of product 2.
+// Read a code of product 1, the number of units of product 1, the price for one unit of product 1, the code of product 2, the number of units of product 2, and the price for one unit of product 2.
 
-// The input file contains two lines of data. In each line there will be 3 values: two integers and a floating value with 2 digits after the decimal point.
+// The input file contains two lines of data. In each line, there will be 3 values: two integers and a floating value with 2 digits after the decimal point.
 let [codeProduct1, numberUnitsProduct1, priceOneUnitProduct1] = lines.shift().split(" ");
 let [codeProduct2, numberUnitsProduct2, priceOneUnitProduct2] = lines.shift().split(" ");
 

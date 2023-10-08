@@ -34,12 +34,12 @@ console.log(lines);
 // Make a program that reads three floating point values: A, B and C.
 
 // To read individual values on a single line:
-let [A, B, C] = lines.shift().split(" ").map(item => parseFloat(item)); // Mapping of values once stored in A, B and C (conversion of text to numbers).
+let [A, B, C] = lines.shift().split(" ").map(item => parseFloat(item)); // Mapping of values once stored in A, B, and C (conversion of text to numbers).
 
 let pi = 3.14159;
 
 // Then, calculate and show:
-let trianguloRetangulo = (A * C) / 2; // a) the area of the rectangled triangle that has base A and height C.
+let trianguloRetangulo = (A * C) / 2; // a) the area of the rectangle triangle that has base A and height C.
 let circulo = pi * Math.pow(C, 2); // b) the area of the radius's circle C. (pi = 3.14159)
 let trapezio = ((A + B) * C) / 2; //b) the area of the radius's circle C. (pi = 3.14159)
 let quadrado = B * B; // d) the area of ​​the square that has side B.

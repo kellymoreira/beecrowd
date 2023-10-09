@@ -12,6 +12,7 @@
 |1002|[Area of a Circle](https://www.beecrowd.com.br/judge/en/problems/view/1002) | [JavaScript](./Solutions/AreaOfaCircle/1002.js)|Sequential|
 |1003|[Simple Sum](https://www.beecrowd.com.br/judge/en/problems/view/1003) | [JavaScript](./Solutions/SimpleSum/1003.js)|Sequential|
 |1004|[Simple Product](https://www.beecrowd.com.br/judge/en/problems/view/1004) | [JavaScript](./Solutions/SimpleProduct/1004.js)|Sequential|
+|1005|[Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005) | [JavaScript](./Solutions/Average1/1005.js)|Sequential|
 
 
 

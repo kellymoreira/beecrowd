@@ -1,4 +1,5 @@
 // SNACK
+
 /********************************************************************************************************************
 * 
 * Using the following table, write a program that reads a code and the amount of an item.

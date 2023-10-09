@@ -20,7 +20,7 @@
 * That means “DDD not found” in Portuguese language.
 *
 * INPUT
-* The input consists in a unique integer number.
+* The input consists of a unique integer number.
 *
 * OUTPUT
 * Print the city name corresponding to the input DDD.

@@ -2,7 +2,7 @@
 
 /*****************************************************************************************************************
 * 
-* The formula to calculate the area of a circumference is defined as A = π . R2. 
+* The formula to calculate the area of a circumference is defined as A = π. R2. 
 * Considering to this problem that π = 3.14159:
 *
 * Calculate the area using the formula given in the problem description.
@@ -12,7 +12,7 @@
 *
 * OUTPUT
 * Present the message "A=" followed by the value of the variable, with four places after the decimal point.
-* Use double precision variables.
+* Use double-precision variables.
 *               
 ******************************************************************************************************************/
 
@@ -29,8 +29,8 @@ console.log(lines);
 
 let raio = lines.shift(); // Read lines with a single value on the same line
 
-raio = parseFloat(raio); // The input contains a value of floating point (double precision), that is the variable R.
+raio = parseFloat(raio); // The input contains a value of the floating point (double precision), that is the variable R.
 
-let area = 3.14159 * raio * raio; // The formula to calculate the area of a circumference is defined as A = π . R2. Considering to this problem that π = 3.14159:
+let area = 3.14159 * raio * raio; // The formula to calculate the area of a circumference is defined as A = π. R2. Considering this problem that π = 3.14159:
 
-console.log("A=" + area.toFixed(4)); // Present the message "A=" followed by the value of the variable, with four places after the decimal point. Use all double precision variables. 
+console.log("A=" + area.toFixed(4)); // Present the message "A=" followed by the value of the variable, with four places after the decimal point. Use all double-precision variables. 

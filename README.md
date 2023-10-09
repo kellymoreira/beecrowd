@@ -8,7 +8,7 @@ A plataforma aceita submissões em várias linguagens de programação e é vast
 
 ##
 
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-37-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-40-purple)](https://github.com/kellymoreira/beecrowd/commits)
 
 | ID | Title | Solution | Subject |
 |---| ----- | -------- | ---------- |

@@ -35,6 +35,7 @@
 |1038|[Snack](https://www.beecrowd.com.br/judge/en/problems/view/1038) | [JavaScript](./Solutions/Snack/1038.js)|Selection|
 |1040|[Average 3](https://www.beecrowd.com.br/judge/en/problems/view/1040) | [JavaScript](./Solutions/Average3/1040.js)|Selection|
 |1041|[Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) | [JavaScript](./Solutions/CoordinatesOfaPoint/1041.js)|Selection|
+|1042|[Simple Sort](https://www.beecrowd.com.br/judge/en/problems/view/1042) | [JavaScript](./Solutions/SimpleSort/1042.js)|Selection|
 
 
 

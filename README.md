@@ -13,6 +13,18 @@
 |1003|[Simple Sum](https://www.beecrowd.com.br/judge/en/problems/view/1003) | [JavaScript](./Solutions/SimpleSum/1003.js)|Sequential|
 |1004|[Simple Product](https://www.beecrowd.com.br/judge/en/problems/view/1004) | [JavaScript](./Solutions/SimpleProduct/1004.js)|Sequential|
 |1005|[Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005) | [JavaScript](./Solutions/Average1/1005.js)|Sequential|
+|1006|[Average 2](https://www.beecrowd.com.br/judge/en/problems/view/1006) | [JavaScript](./Solutions/Average2/1006.js)|Sequential|
+|1007|[Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007) | [JavaScript](./Solutions/Difference/1007.js)|Sequential|
+|1008|[Salary](https://www.beecrowd.com.br/judge/en/problems/view/1008) | [JavaScript](./Solutions/Salary/1008.js)|Sequential|
+|1009|[Salary with Bonus](https://www.beecrowd.com.br/judge/en/problems/view/1009) | [JavaScript](./Solutions/SalaryWithBonus/1009.js)|Sequential|
+|1010|[Simple Calculate](https://www.beecrowd.com.br/judge/en/problems/view/1010) | [JavaScript](./Solutions/SimpleCalculate/1010.js)|Sequential|
+|1011|[Sphere](https://www.beecrowd.com.br/judge/en/problems/view/1011) | [JavaScript](./Solutions/Sphere/1011.js)|Sequential|
+|1012|[Area](https://www.beecrowd.com.br/judge/en/problems/view/1012) | [JavaScript](./Solutions/Area/1012.js)|Sequential|
+|1013|[The Greatest](https://www.beecrowd.com.br/judge/en/problems/view/1013) | [JavaScript](./Solutions/TheGreatest/1013.js)|Sequential|
+|1014|[Consumption](https://www.beecrowd.com.br/judge/en/problems/view/1014) | [JavaScript](./Solutions/Consumption/1014.js)|Sequential|
+|1015|[Distance Between Two Points](https://www.beecrowd.com.br/judge/en/problems/view/1015) | [JavaScript](./Solutions/DistanceBetweenTwoPoints/1015.js)|Sequential|
+|1016|[Distance](https://www.beecrowd.com.br/judge/en/problems/view/1016) | [JavaScript](./Solutions/Distance/1016.js)|Sequential|
+|1017|[Fuel Spent](https://www.beecrowd.com.br/judge/en/problems/view/1017) | [JavaScript](./Solutions/FuelSpent/1017.js)|Sequential|
 
 
 

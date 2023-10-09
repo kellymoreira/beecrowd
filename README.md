@@ -52,3 +52,25 @@ A plataforma aceita submissões em várias linguagens de programação e é vast
 
 
 
+
+
+
+
+
+
+
+
+
+<div align="right">
+  <h3> - Obrigada por sua visita! <alt="Obrigada por sua visita!"> </h3>
+</div>
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kellymoreira/beecrowd&right_color=yellow">
+</p>
+
+
+
+
+
+

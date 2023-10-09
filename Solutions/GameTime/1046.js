@@ -14,7 +14,6 @@
 * Print the duration of the game as in the sample output.
 *
 ******************************************************************************************************************/
-
 const fileSystem = require('fs');
 const endereco = require('path');
 const enderecoDesteScriptJS = endereco.dirname(process.argv[1]);

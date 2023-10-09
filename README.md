@@ -39,6 +39,11 @@
 |1043|[Triangle](https://www.beecrowd.com.br/judge/en/problems/view/1043) | [JavaScript](./Solutions/Triangle/1043.js)|Selection|
 |1044|[Multiples](https://www.beecrowd.com.br/judge/en/problems/view/1044) | [JavaScript](./Solutions/Multiples/1044.js)|Selection|
 |1045|[Triangle Types](https://www.beecrowd.com.br/judge/en/problems/view/1045) | [JavaScript](./Solutions/TriangleTypes/1045.js)|Selection|
+|1046|[Game Time](https://www.beecrowd.com.br/judge/en/problems/view/1046) | [JavaScript](./Solutions/GameTime/1046.js)|Selection|
+|1048|[Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048) | [JavaScript](./Solutions/SalaryIncrease/1048.js)|Selection|
+|1049|[Animal](https://www.beecrowd.com.br/judge/en/problems/view/1049) | [JavaScript](./Solutions/Animal/1049.js)|Selection|
+|1050|[DDD](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [JavaScript](./Solutions/DDD/1050.js)|Selection|
+|1059|[Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [JavaScript](./Solutions/EvenNumbers/1059.js)|Repetition|
 
 
 

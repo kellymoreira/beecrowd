@@ -3,10 +3,12 @@
 <img  width="240"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
 </p>
 
+<h3 align="center"> O beecrowd é um julgador online de respostas de problemas de programação.
+A plataforma aceita submissões em várias linguagens de programação e é vastamente utilizado por quem participa de maratonas. </h3>
 
-## Exercícios do beecrowd
+##
+
 [![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-37-purple)](https://github.com/kellymoreira/beecrowd/commits)
-
 
 | ID | Title | Solution | Subject |
 |---| ----- | -------- | ---------- |

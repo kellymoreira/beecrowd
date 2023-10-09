@@ -31,6 +31,10 @@
 |1021|[Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) | [JavaScript](./Solutions/BanknotesAndCoins/1021.js)|Sequential|
 |1035|[Selection Test 1](https://www.beecrowd.com.br/judge/en/problems/view/1035) | [JavaScript](./Solutions/SelectionTest1/1035.js)|Selection|
 |1036|[Bhaskara's Formula](https://www.beecrowd.com.br/judge/en/problems/view/1036) | [JavaScript](./Solutions/Bhaskara'sFormula/1036.js)|Selection|
+|1037|[Interval](https://www.beecrowd.com.br/judge/en/problems/view/1037) | [JavaScript](./Solutions/Interval/1037.js)|Selection|
+|1038|[Snack](https://www.beecrowd.com.br/judge/en/problems/view/1038) | [JavaScript](./Solutions/Snack/1038.js)|Selection|
+|1040|[Average 3](https://www.beecrowd.com.br/judge/en/problems/view/1040) | [JavaScript](./Solutions/Average3/1040.js)|Selection|
+|1041|[Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) | [JavaScript](./Solutions/CoordinatesOfaPoint/1041.js)|Selection|
 
 
 

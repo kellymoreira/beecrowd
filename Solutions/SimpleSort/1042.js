@@ -3,7 +3,7 @@
 /********************************************************************************************************************
 * 
 * Read three integers and sort them in ascending order. 
-* After, print these values in ascending order, a blank line and then the values in the sequence as they were readed.
+* After, print these values in ascending order, a blank line, and then the values in the sequence as they were read.
 *
 * INPUT
 * The input contains three integer numbers.

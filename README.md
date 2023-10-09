@@ -25,6 +25,12 @@
 |1015|[Distance Between Two Points](https://www.beecrowd.com.br/judge/en/problems/view/1015) | [JavaScript](./Solutions/DistanceBetweenTwoPoints/1015.js)|Sequential|
 |1016|[Distance](https://www.beecrowd.com.br/judge/en/problems/view/1016) | [JavaScript](./Solutions/Distance/1016.js)|Sequential|
 |1017|[Fuel Spent](https://www.beecrowd.com.br/judge/en/problems/view/1017) | [JavaScript](./Solutions/FuelSpent/1017.js)|Sequential|
+|1018|[Banknotes](https://www.beecrowd.com.br/judge/en/problems/view/1018) | [JavaScript](./Solutions/Banknotes/1018.js)|Sequential|
+|1019|[Time Conversion](https://www.beecrowd.com.br/judge/en/problems/view/1019) | [JavaScript](./Solutions/TimeConversion/1019.js)|Sequential|
+|1020|[Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) | [JavaScript](./Solutions/AgeInDays/1020.js)|Sequential|
+|1021|[Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) | [JavaScript](./Solutions/BanknotesAndCoins/1021.js)|Sequential|
+|1035|[Selection Test 1](https://www.beecrowd.com.br/judge/en/problems/view/1035) | [JavaScript](./Solutions/SelectionTest1/1035.js)|Selection|
+|1036|[Bhaskara's Formula](https://www.beecrowd.com.br/judge/en/problems/view/1036) | [JavaScript](./Solutions/Bhaskara'sFormula/1036.js)|Selection|
 
 
 

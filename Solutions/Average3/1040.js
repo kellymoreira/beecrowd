@@ -1,4 +1,5 @@
 // AVERAGE 3
+
 /********************************************************************************************************************
 * 
 * Read four numbers (N1, N2, N3, N4), which one with 1 digit after the decimal point, corresponding to 4 scores 

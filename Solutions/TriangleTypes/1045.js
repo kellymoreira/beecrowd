@@ -2,8 +2,8 @@
 
 /**********************************************************************************************************************
 * 
-* Read 3 double numbers (A, B and C) representing the sides of a triangle and arrange them in decreasing order, 
-* so that the side A is the biggest of the three sides. 
+* Read 3 double numbers (A, B, and C) representing the sides of a triangle and arrange them in decreasing order, 
+* so that side A is the biggest of the three sides. 
 * Next, determine the type of triangle that they can make, based on the following cases always writing an appropriate * message:
 *
 *       -> if A ≥ B + C, write the message: NAO FORMA TRIANGULO
@@ -13,7 +13,7 @@
 *       -> if the three sides are the same size, write the message: TRIANGULO EQUILATERO
 *       -> if only two sides are the same and the third one is different, write the message: TRIANGULO ISOSCELES
 * INPUT
-* The input contains three double numbers, A (0 < A) , B (0 < B) and C (0 < C).
+* The input contains three double numbers, A (0 < A), B (0 < B), and C (0 < C).
 *
 * OUTPUT
 * Print all the classifications of the triangle presented in the input.
@@ -38,7 +38,7 @@ let [X, Y, Z] = lines[0].split(" ").map(item => parseFloat(item));
 
 // question ? response_if_yes : response_if_no
 
-// Arrange them in decreasing order, so that the side A is the biggest of the three sides.
+// Arrange them in decreasing order, so that side A is the biggest of the three sides.
 
 if (X >= Y && X >= Z) {
     A = X;

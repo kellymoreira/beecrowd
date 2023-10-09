@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center"> O beecrowd é um julgador online de respostas de problemas de programação.
-A plataforma aceita submissões em várias linguagens de programação e é amplamente utilizada por participantes de maratonas. </h3>
+A plataforma aceita submissões em várias linguagens e é amplamente utilizada por participantes de maratonas. </h3>
 
 ##
 

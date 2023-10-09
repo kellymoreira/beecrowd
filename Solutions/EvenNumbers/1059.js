@@ -12,7 +12,6 @@
 *
 *****************************************************************************************************************/
 
-
 const fileSystem = require('fs');
 const endereco = require('path');
 const enderecoDesteScriptJS = endereco.dirname(process.argv[1]);

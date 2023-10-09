@@ -1,14 +1,13 @@
 // TRIANGLE
 
-/********************************************************************************************************************
+/************************************************************************************************************************
 * 
-* Read three point floating values (A, B and C) and verify if is possible to make a triangle with them. 
+* Read three-point floating values (A, B, and C) and verify if is possible to make a triangle with them. 
 * If it is possible, calculate the perimeter of the triangle and print the message:
 *
 *                          Perimetro = XX.X
 *
-* If it is not possible, calculate the area of the trapezium which basis A and B and C as height, and print the 
-* message:
+* If it is not possible, calculate the area of the trapezium which basis A and B and C as height, and print the message:
 *
 *                          Area = XX.X
 *
@@ -18,7 +17,7 @@
 * OUTPUT
 * Print the result with one digit after the decimal point.
 * 
-********************************************************************************************************************/
+************************************************************************************************************************/
 
 const fileSystem = require('fs');
 const endereco = require('path');
@@ -30,7 +29,7 @@ let lines = conteudoArquivo.split(quebraLinhaWindows);
 
 // COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
 
-// Read three point floating values (A, B and C).
+// Read three-point floating values (A, B, and C).
 
 // Read more than one value on the same line:
 let [A, B, C] = lines[0].split(" ").map(item => parseFloat(item)); // The input file has tree floating point numbers.

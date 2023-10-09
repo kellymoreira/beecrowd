@@ -9,4 +9,6 @@
 |---| ----- | -------- | ---------- |
 |1000|[Hello World!](https://www.beecrowd.com.br/judge/en/problems/view/1000) | [JavaScript](./Solutions/HelloWorld!)|Sequential|
 |1001|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions/ExtremelyBasic/1001.js)|Sequential|
+|1002|[Area of a Circle](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions/AreaOfaCircle/1002.js)|Sequential|
+
 

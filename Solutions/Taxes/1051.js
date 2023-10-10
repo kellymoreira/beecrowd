@@ -6,12 +6,13 @@
 * don’t exist corrupt politicians and the taxes are used to benefit the population, without any misappropriation. 
 * The currency of this country is Rombus, whose symbol is R$.
 *
-* Read a value with 2 digits after the decimal point, equivalent to the salary of a Lisarb inhabitant. Then print the * due value that this person must pay for taxes, according to the table below.
+* Read a value with 2 digits after the decimal point, equivalent to the salary of a Lisarb inhabitant. 
+* Then print the due value that this person must pay for taxes, according to the table below.
 *
-*                             SALARY                |   TAXES
-*                    from 0.00 to R$ 2,000.00             8%
-*                    from R$ 2.000.01 to R$ 3,000.00      18%
-*                    from R$ 3.000.01 to R$ 4,500.00      28%
+*                              SALARY                  |  TAXES
+*                    from 0.00 to R$ 2,000.00              8%
+*                    from R$ 2.000.01 to R$ 3,000.00       18%
+*                    from R$ 3.000.01 to R$ 4,500.00       28%
 *
 * Remember, if the salary is R$ 3,002.00 for example, the rate of 8% is only over R$ 1,000.00, because
 * the salary from R$ 0.00 to R$ 2,000.00 is tax-free. 

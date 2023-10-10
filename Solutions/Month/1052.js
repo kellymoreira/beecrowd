@@ -3,7 +3,7 @@
 /********************************************************************************************************************
 * 
 * Read an integer number between 1 and 12, including. 
-* Corresponding to this number, you must print the month of the year, in english, with the first letter in uppercase.
+* Corresponding to this number, you must print the month of the year, in English, with the first letter in uppercase.
 * 
 * INPUT
 * The input contains only an integer number.

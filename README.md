@@ -49,6 +49,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |1048|[Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048) | [JavaScript](./Solutions/SalaryIncrease/1048.js)|Selection|
 |1049|[Animal](https://www.beecrowd.com.br/judge/en/problems/view/1049) | [JavaScript](./Solutions/Animal/1049.js)|Selection|
 |1050|[DDD](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [JavaScript](./Solutions/DDD/1050.js)|Selection|
+|1051|[Taxes](https://www.beecrowd.com.br/judge/en/problems/view/1051) | [JavaScript](./Solutions/Taxes/1051.js)|Selection|
 |1059|[Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [JavaScript](./Solutions/EvenNumbers/1059.js)|Repetition|
 
 

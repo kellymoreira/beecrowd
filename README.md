@@ -61,8 +61,6 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 
 
 
-
-
 <div align="right">
   <h3> Obrigada por sua visita! <alt="Obrigada por sua visita!"> </h3>
 </div>

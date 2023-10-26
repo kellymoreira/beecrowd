@@ -9,6 +9,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 ##
 
 [![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-40-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![JavaScript](https://img.shields.io/badge/JavaScript-d8b024.svg)](https://www.JavaScript.com)
 
 | ID | Title | Solution | Subject |
 |---| ----- | -------- | ---------- |
@@ -54,6 +55,9 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |1059|[Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [JavaScript](./Solutions/EvenNumbers/1059.js)|Repetition|
 
 <br>
+
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-01-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f425f.svg)](https://www.PostgreSQL.com)
 
 | ID | Title | Solution | Subject |
 |---| ----- | -------- | ---------- |

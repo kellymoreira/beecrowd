@@ -53,6 +53,13 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |1052|[Month](https://www.beecrowd.com.br/judge/en/problems/view/1052) | [JavaScript](./Solutions/Month/1052.js)|Selection|
 |1059|[Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [JavaScript](./Solutions/EvenNumbers/1059.js)|Repetition|
 
+<br>
+
+| ID | Title | Solution | Subject |
+|---| ----- | -------- | ---------- |
+|2602|[Basic Select](https://www.beecrowd.com.br/judge/en/problems/view/2602) | [PostgreSQL](./Solutions-SQL/BasicSelect)|Data Selection|
+
+
 
 
 

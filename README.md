@@ -56,12 +56,14 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 
 <br>
 
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-01-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-02-purple)](https://github.com/kellymoreira/beecrowd/commits)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f425f.svg)](https://www.PostgreSQL.com)
 
 | ID | Title | Solution | Subject |
 |---| ----- | -------- | ---------- |
 |2602|[Basic Select](https://www.beecrowd.com.br/judge/en/problems/view/2602) | [PostgreSQL](./Solutions-SQL/BasicSelect)|Data Selection|
+|2603|[Customer Address](https://www.beecrowd.com.br/judge/en/problems/view/2603) | [PostgreSQL](./Solutions-SQL/CustomerAddress)|Data Selection|
+
 
 
 

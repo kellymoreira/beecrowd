@@ -1,1 +1,2 @@
- select name from customers where state = 'RS'
+select name from customers where state = 'RS'
+

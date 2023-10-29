@@ -14,45 +14,45 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 | ID | Title | Solution | Subject |
 |---| ----- | -------- | ---------- |
 |1000|[Hello World!](https://www.beecrowd.com.br/judge/en/problems/view/1000) | [JavaScript](./Solutions-JavaScript/HelloWorld!)|Sequential|
-|1001|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions/ExtremelyBasic/1001.js)|Sequential|
-|1002|[Area of a Circle](https://www.beecrowd.com.br/judge/en/problems/view/1002) | [JavaScript](./Solutions/AreaOfaCircle/1002.js)|Sequential|
-|1003|[Simple Sum](https://www.beecrowd.com.br/judge/en/problems/view/1003) | [JavaScript](./Solutions/SimpleSum/1003.js)|Sequential|
-|1004|[Simple Product](https://www.beecrowd.com.br/judge/en/problems/view/1004) | [JavaScript](./Solutions/SimpleProduct/1004.js)|Sequential|
-|1005|[Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005) | [JavaScript](./Solutions/Average1/1005.js)|Sequential|
-|1006|[Average 2](https://www.beecrowd.com.br/judge/en/problems/view/1006) | [JavaScript](./Solutions/Average2/1006.js)|Sequential|
-|1007|[Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007) | [JavaScript](./Solutions/Difference/1007.js)|Sequential|
-|1008|[Salary](https://www.beecrowd.com.br/judge/en/problems/view/1008) | [JavaScript](./Solutions/Salary/1008.js)|Sequential|
-|1009|[Salary with Bonus](https://www.beecrowd.com.br/judge/en/problems/view/1009) | [JavaScript](./Solutions/SalaryWithBonus/1009.js)|Sequential|
-|1010|[Simple Calculate](https://www.beecrowd.com.br/judge/en/problems/view/1010) | [JavaScript](./Solutions/SimpleCalculate/1010.js)|Sequential|
-|1011|[Sphere](https://www.beecrowd.com.br/judge/en/problems/view/1011) | [JavaScript](./Solutions/Sphere/1011.js)|Sequential|
-|1012|[Area](https://www.beecrowd.com.br/judge/en/problems/view/1012) | [JavaScript](./Solutions/Area/1012.js)|Sequential|
-|1013|[The Greatest](https://www.beecrowd.com.br/judge/en/problems/view/1013) | [JavaScript](./Solutions/TheGreatest/1013.js)|Sequential|
-|1014|[Consumption](https://www.beecrowd.com.br/judge/en/problems/view/1014) | [JavaScript](./Solutions/Consumption/1014.js)|Sequential|
-|1015|[Distance Between Two Points](https://www.beecrowd.com.br/judge/en/problems/view/1015) | [JavaScript](./Solutions/DistanceBetweenTwoPoints/1015.js)|Sequential|
-|1016|[Distance](https://www.beecrowd.com.br/judge/en/problems/view/1016) | [JavaScript](./Solutions/Distance/1016.js)|Sequential|
-|1017|[Fuel Spent](https://www.beecrowd.com.br/judge/en/problems/view/1017) | [JavaScript](./Solutions/FuelSpent/1017.js)|Sequential|
-|1018|[Banknotes](https://www.beecrowd.com.br/judge/en/problems/view/1018) | [JavaScript](./Solutions/Banknotes/1018.js)|Sequential|
-|1019|[Time Conversion](https://www.beecrowd.com.br/judge/en/problems/view/1019) | [JavaScript](./Solutions/TimeConversion/1019.js)|Sequential|
-|1020|[Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) | [JavaScript](./Solutions/AgeInDays/1020.js)|Sequential|
-|1021|[Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) | [JavaScript](./Solutions/BanknotesAndCoins/1021.js)|Sequential|
-|1035|[Selection Test 1](https://www.beecrowd.com.br/judge/en/problems/view/1035) | [JavaScript](./Solutions/SelectionTest1/1035.js)|Selection|
-|1036|[Bhaskara's Formula](https://www.beecrowd.com.br/judge/en/problems/view/1036) | [JavaScript](./Solutions/Bhaskara'sFormula/1036.js)|Selection|
-|1037|[Interval](https://www.beecrowd.com.br/judge/en/problems/view/1037) | [JavaScript](./Solutions/Interval/1037.js)|Selection|
-|1038|[Snack](https://www.beecrowd.com.br/judge/en/problems/view/1038) | [JavaScript](./Solutions/Snack/1038.js)|Selection|
-|1040|[Average 3](https://www.beecrowd.com.br/judge/en/problems/view/1040) | [JavaScript](./Solutions/Average3/1040.js)|Selection|
-|1041|[Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) | [JavaScript](./Solutions/CoordinatesOfaPoint/1041.js)|Selection|
-|1042|[Simple Sort](https://www.beecrowd.com.br/judge/en/problems/view/1042) | [JavaScript](./Solutions/SimpleSort/1042.js)|Selection|
-|1043|[Triangle](https://www.beecrowd.com.br/judge/en/problems/view/1043) | [JavaScript](./Solutions/Triangle/1043.js)|Selection|
-|1044|[Multiples](https://www.beecrowd.com.br/judge/en/problems/view/1044) | [JavaScript](./Solutions/Multiples/1044.js)|Selection|
-|1045|[Triangle Types](https://www.beecrowd.com.br/judge/en/problems/view/1045) | [JavaScript](./Solutions/TriangleTypes/1045.js)|Selection|
-|1046|[Game Time](https://www.beecrowd.com.br/judge/en/problems/view/1046) | [JavaScript](./Solutions/GameTime/1046.js)|Selection|
-|1047|[Game Time With Minutes](https://www.beecrowd.com.br/judge/en/problems/view/1047) | [JavaScript](./Solutions/GameTimeWithMinutes/1047.js)|Selection|
-|1048|[Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048) | [JavaScript](./Solutions/SalaryIncrease/1048.js)|Selection|
-|1049|[Animal](https://www.beecrowd.com.br/judge/en/problems/view/1049) | [JavaScript](./Solutions/Animal/1049.js)|Selection|
-|1050|[DDD](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [JavaScript](./Solutions/DDD/1050.js)|Selection|
-|1051|[Taxes](https://www.beecrowd.com.br/judge/en/problems/view/1051) | [JavaScript](./Solutions/Taxes/1051.js)|Selection|
-|1052|[Month](https://www.beecrowd.com.br/judge/en/problems/view/1052) | [JavaScript](./Solutions/Month/1052.js)|Selection|
-|1059|[Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [JavaScript](./Solutions/EvenNumbers/1059.js)|Repetition|
+|1001|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001) | [JavaScript](./Solutions-JavaScript/ExtremelyBasic/1001.js)|Sequential|
+|1002|[Area of a Circle](https://www.beecrowd.com.br/judge/en/problems/view/1002) | [JavaScript](./Solutions-JavaScript/AreaOfaCircle/1002.js)|Sequential|
+|1003|[Simple Sum](https://www.beecrowd.com.br/judge/en/problems/view/1003) | [JavaScript](./Solutions-JavaScript/SimpleSum/1003.js)|Sequential|
+|1004|[Simple Product](https://www.beecrowd.com.br/judge/en/problems/view/1004) | [JavaScript](./Solutions-JavaScript/SimpleProduct/1004.js)|Sequential|
+|1005|[Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005) | [JavaScript](./Solutions-JavaScript/Average1/1005.js)|Sequential|
+|1006|[Average 2](https://www.beecrowd.com.br/judge/en/problems/view/1006) | [JavaScript](./Solutions-JavaScript/Average2/1006.js)|Sequential|
+|1007|[Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007) | [JavaScript](./Solutions-JavaScript/Difference/1007.js)|Sequential|
+|1008|[Salary](https://www.beecrowd.com.br/judge/en/problems/view/1008) | [JavaScript](./Solutions-JavaScript/Salary/1008.js)|Sequential|
+|1009|[Salary with Bonus](https://www.beecrowd.com.br/judge/en/problems/view/1009) | [JavaScript](./Solutions-JavaScript/SalaryWithBonus/1009.js)|Sequential|
+|1010|[Simple Calculate](https://www.beecrowd.com.br/judge/en/problems/view/1010) | [JavaScript](./Solutions-JavaScript/SimpleCalculate/1010.js)|Sequential|
+|1011|[Sphere](https://www.beecrowd.com.br/judge/en/problems/view/1011) | [JavaScript](./Solutions-JavaScript/Sphere/1011.js)|Sequential|
+|1012|[Area](https://www.beecrowd.com.br/judge/en/problems/view/1012) | [JavaScript](./Solutions-JavaScript/Area/1012.js)|Sequential|
+|1013|[The Greatest](https://www.beecrowd.com.br/judge/en/problems/view/1013) | [JavaScript](./Solutions-JavaScript/TheGreatest/1013.js)|Sequential|
+|1014|[Consumption](https://www.beecrowd.com.br/judge/en/problems/view/1014) | [JavaScript](./Solutions-JavaScript/Consumption/1014.js)|Sequential|
+|1015|[Distance Between Two Points](https://www.beecrowd.com.br/judge/en/problems/view/1015) | [JavaScript](./Solutions-JavaScript/DistanceBetweenTwoPoints/1015.js)|Sequential|
+|1016|[Distance](https://www.beecrowd.com.br/judge/en/problems/view/1016) | [JavaScript](./Solutions-JavaScript/Distance/1016.js)|Sequential|
+|1017|[Fuel Spent](https://www.beecrowd.com.br/judge/en/problems/view/1017) | [JavaScript](./Solutions-JavaScript/FuelSpent/1017.js)|Sequential|
+|1018|[Banknotes](https://www.beecrowd.com.br/judge/en/problems/view/1018) | [JavaScript](./Solutions-JavaScript/Banknotes/1018.js)|Sequential|
+|1019|[Time Conversion](https://www.beecrowd.com.br/judge/en/problems/view/1019) | [JavaScript](./Solutions-JavaScript/TimeConversion/1019.js)|Sequential|
+|1020|[Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) | [JavaScript](./Solutions-JavaScript/AgeInDays/1020.js)|Sequential|
+|1021|[Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) | [JavaScript](./Solutions-JavaScript/BanknotesAndCoins/1021.js)|Sequential|
+|1035|[Selection Test 1](https://www.beecrowd.com.br/judge/en/problems/view/1035) | [JavaScript](./Solutions-JavaScript/SelectionTest1/1035.js)|Selection|
+|1036|[Bhaskara's Formula](https://www.beecrowd.com.br/judge/en/problems/view/1036) | [JavaScript](./Solutions-JavaScript/Bhaskara'sFormula/1036.js)|Selection|
+|1037|[Interval](https://www.beecrowd.com.br/judge/en/problems/view/1037) | [JavaScript](./Solutions-JavaScript/Interval/1037.js)|Selection|
+|1038|[Snack](https://www.beecrowd.com.br/judge/en/problems/view/1038) | [JavaScript](./Solutions-JavaScript/Snack/1038.js)|Selection|
+|1040|[Average 3](https://www.beecrowd.com.br/judge/en/problems/view/1040) | [JavaScript](./Solutions-JavaScript/Average3/1040.js)|Selection|
+|1041|[Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) | [JavaScript](./Solutions-JavaScript/CoordinatesOfaPoint/1041.js)|Selection|
+|1042|[Simple Sort](https://www.beecrowd.com.br/judge/en/problems/view/1042) | [JavaScript](./Solutions-JavaScript/SimpleSort/1042.js)|Selection|
+|1043|[Triangle](https://www.beecrowd.com.br/judge/en/problems/view/1043) | [JavaScript](./Solutions-JavaScript/Triangle/1043.js)|Selection|
+|1044|[Multiples](https://www.beecrowd.com.br/judge/en/problems/view/1044) | [JavaScript](./Solutions-JavaScript/Multiples/1044.js)|Selection|
+|1045|[Triangle Types](https://www.beecrowd.com.br/judge/en/problems/view/1045) | [JavaScript](./Solutions-JavaScript/TriangleTypes/1045.js)|Selection|
+|1046|[Game Time](https://www.beecrowd.com.br/judge/en/problems/view/1046) | [JavaScript](./Solutions-JavaScript/GameTime/1046.js)|Selection|
+|1047|[Game Time With Minutes](https://www.beecrowd.com.br/judge/en/problems/view/1047) | [JavaScript](./Solutions-JavaScript/GameTimeWithMinutes/1047.js)|Selection|
+|1048|[Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048) | [JavaScript](./Solutions-JavaScript/SalaryIncrease/1048.js)|Selection|
+|1049|[Animal](https://www.beecrowd.com.br/judge/en/problems/view/1049) | [JavaScript](./Solutions-JavaScript/Animal/1049.js)|Selection|
+|1050|[DDD](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [JavaScript](./Solutions-JavaScript/DDD/1050.js)|Selection|
+|1051|[Taxes](https://www.beecrowd.com.br/judge/en/problems/view/1051) | [JavaScript](./Solutions-JavaScript/Taxes/1051.js)|Selection|
+|1052|[Month](https://www.beecrowd.com.br/judge/en/problems/view/1052) | [JavaScript](./Solutions-JavaScript/Month/1052.js)|Selection|
+|1059|[Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [JavaScript](./Solutions-JavaScript/EvenNumbers/1059.js)|Repetition|
 
 <br>
 

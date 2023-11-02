@@ -19,7 +19,7 @@ VALUES
   
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
  
- select name, street
- from customers 
- where city = 'Porto Alegre'
+ SELECT name, street
+ FROM customers 
+ WHERE city = 'Porto Alegre'
  

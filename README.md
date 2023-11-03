@@ -63,6 +63,8 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |---| ----- | -------- | ---------- |
 |2602|[Basic Select](https://www.beecrowd.com.br/judge/en/problems/view/2602) | [PostgreSQL](./Solutions-SQL/BasicSelect)|Data Selection|
 |2603|[Customer Address](https://www.beecrowd.com.br/judge/en/problems/view/2603) | [PostgreSQL](./Solutions-SQL/CustomerAddress)|Data Selection|
+|2604|[Under 10 or Greater Than 100](https://www.beecrowd.com.br/judge/en/problems/view/2604) | [PostgreSQL](./Solutions-SQL/Under10orGreaterThan100)|Data Selection|
+
 
 
 

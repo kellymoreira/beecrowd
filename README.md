@@ -66,7 +66,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |2604|[Under 10 or Greater Than 100](https://www.beecrowd.com.br/judge/en/problems/view/2604) | [PostgreSQL](./Solutions-SQL/Under10orGreaterThan100)|Data Selection|
 |2605|[Executive Representatives](https://www.beecrowd.com.br/judge/en/problems/view/2605) | [PostgreSQL](./Solutions-SQL/ExecutiveRepresentatives)|Data Selection|
 |2606|[Categories](https://www.beecrowd.com.br/judge/en/problems/view/2606) | [PostgreSQL](./Solutions-SQL/Categories)|Data Selection|
-|2607|[Providers' City in Alphabetical Order](https://www.beecrowd.com.br/judge/en/problems/view/2606) | [PostgreSQL](./Solutions-SQL/Providers'CityInAlphabeticalOrder)|Data Selection|
+|2607|[Providers' City in Alphabetical Order](https://www.beecrowd.com.br/judge/en/problems/view/2607) | [PostgreSQL](./Solutions-SQL/Providers'CityInAlphabeticalOrder)|Data Selection|
 
 
 

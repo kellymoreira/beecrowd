@@ -54,7 +54,7 @@ VALUES
   (5,	'Chair',	3000,	210.64,	3,	6),
   (6,	'Single bed',	750,	460,	1,	2);
 
--- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
+-- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
  SELECT product.name, provider.name
  FROM products product INNER JOIN providers provider ON

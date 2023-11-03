@@ -69,7 +69,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |2607|[Providers' City in Alphabetical Order](https://www.beecrowd.com.br/judge/en/problems/view/2607) | [PostgreSQL](./Solutions-SQL/Providers'CityInAlphabeticalOrder)|Data Selection|
 |2608|[Higher and Lower Price](https://www.beecrowd.com.br/judge/en/problems/view/2608) | [PostgreSQL](./Solutions-SQL/HigherAndLowerPrice)|Data Selection|
 |2609|[Products by Categories](https://www.beecrowd.com.br/judge/en/problems/view/2609) | [PostgreSQL](./Solutions-SQL/ProductsByCategories)|Data Selection|
-|2610|[Average Value of Products](https://www.beecrowd.com.br/judge/en/problems/view/2609) | [PostgreSQL](./Solutions-SQL/AverageValueOfProducts)|Data Selection|
+|2610|[Average Value of Products](https://www.beecrowd.com.br/judge/en/problems/view/2610) | [PostgreSQL](./Solutions-SQL/AverageValueOfProducts)|Data Selection|
 
 
 

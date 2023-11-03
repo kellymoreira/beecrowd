@@ -16,6 +16,6 @@ VALUES
   (5,	'Chair',	3000,	210.64),
   (6,	'Single bed',	750,	99);
   
--- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
+-- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
  
  SELECT id, name FROM products WHERE price < 10 OR price > 100

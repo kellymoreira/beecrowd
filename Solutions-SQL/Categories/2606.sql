@@ -36,7 +36,7 @@ VALUES
   (5,	'Chair',	'3000',	'210.64',	9),	
   (6,	'Home alarm',	750,	460,	4);
   
- -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
+-- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
 SELECT product.id, product.name
 FROM products product INNER JOIN categories super ON

@@ -71,6 +71,10 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |2609|[Products by Categories](https://www.beecrowd.com.br/judge/en/problems/view/2609) | [PostgreSQL](./Solutions-SQL/ProductsByCategories)|Data Selection|
 |2610|[Average Value of Products](https://www.beecrowd.com.br/judge/en/problems/view/2610) | [PostgreSQL](./Solutions-SQL/AverageValueOfProducts)|Data Selection|
 |2611|[Action Movies](https://www.beecrowd.com.br/judge/en/problems/view/2611) | [PostgreSQL](./Solutions-SQL/ActionMovies)|Data Selection|
+|2613|[Cheap Movies](https://www.beecrowd.com.br/judge/en/problems/view/2613) | [PostgreSQL](./Solutions-SQL/CheapMovies)|Data Selection|
+|2614|[September Rentals](https://www.beecrowd.com.br/judge/en/problems/view/2614) | [PostgreSQL](./Solutions-SQL/SeptemberRentals)|Data Selection|
+|2615|[Expanding the Business](https://www.beecrowd.com.br/judge/en/problems/view/2615) | [PostgreSQL](./Solutions-SQL/ExpandingTheBusiness)|Data Selection|
+
 
 
 

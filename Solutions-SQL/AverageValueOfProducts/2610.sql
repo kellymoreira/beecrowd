@@ -19,4 +19,4 @@ VALUES
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
 SELECT ROUND(AVG(price), 2) AS average_price
-FROM products
+FROM products;

@@ -29,7 +29,7 @@ VALUES
   
  -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
-SELECT movie.id, movie.name
-FROM movies movie
-JOIN genres genre ON movie.id_genres = genre.id
-WHERE genre.description = 'Action'
+SELECT m.id, m.name
+FROM movies m
+JOIN genres g ON m.id_genres = g.id
+WHERE g.description = 'Action';

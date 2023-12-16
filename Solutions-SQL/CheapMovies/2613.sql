@@ -30,8 +30,8 @@ VALUES
   (5,	'The Two Hours',	2);
  
  -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
-  
-SELECT movie.id, movie.name
-FROM movies movie
-JOIN prices price ON movie.id_prices = price.id
-WHERE price.value < 2.00;
+
+SELECT m.id, m.name
+FROM movies m
+JOIN prices p ON m.id_prices = p.id
+WHEREp.value < 2.00;

@@ -56,7 +56,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 
 <br>
 
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-13-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-18-purple)](https://github.com/kellymoreira/beecrowd/commits)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f425f.svg)](https://www.PostgreSQL.com)
 
 | ID | Title | Solution | Subject |
@@ -74,7 +74,11 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |2613|[Cheap Movies](https://www.beecrowd.com.br/judge/en/problems/view/2613) | [PostgreSQL](./Solutions-SQL/CheapMovies)|Data Selection|
 |2614|[September Rentals](https://www.beecrowd.com.br/judge/en/problems/view/2614) | [PostgreSQL](./Solutions-SQL/SeptemberRentals)|Data Selection|
 |2615|[Expanding the Business](https://www.beecrowd.com.br/judge/en/problems/view/2615) | [PostgreSQL](./Solutions-SQL/ExpandingTheBusiness)|Data Selection|
-
+|2616|[No Rental](https://www.beecrowd.com.br/judge/en/problems/view/2616) | [PostgreSQL](./Solutions-SQL/NoRental)|Data Selection|
+|2617|[Provider Ajax SA](https://www.beecrowd.com.br/judge/en/problems/view/2616) | [PostgreSQL](./Solutions-SQL/ProviderAjaxSA)|Data Selection|
+|2618|[Imported Products](https://www.beecrowd.com.br/judge/en/problems/view/2618) | [PostgreSQL](./Solutions-SQL/ImportedProducts)|Data Selection|
+|2619|[Super Luxury](https://www.beecrowd.com.br/judge/en/problems/view/2619) | [PostgreSQL](./Solutions-SQL/SuperLuxury)|Data Selection|
+|2620|[Orders in First Half](https://www.beecrowd.com.br/judge/en/problems/view/2620) | [PostgreSQL](./Solutions-SQL/OrdersInFirstHalf)|Data Selection|
 
 
 

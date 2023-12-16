@@ -35,8 +35,8 @@ VALUES
   
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
-SELECT product.name, provider.names
-FROM products product
-INNER JOIN providers provider
-ON provider.id = product.id_providers
-WHERE provider.name = 'Ajax SA';
+SELECT p.name, pr.name
+FROM products p
+INNER JOIN providers pr
+ON pr.id = p.id_providers
+WHERE pr.name = 'Ajax SA';

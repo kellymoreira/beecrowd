@@ -19,4 +19,4 @@ VALUES
   
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
- SELECT name FROM customers WHERE state = 'RS'
+ SELECT name FROM customers WHERE state = 'RS';

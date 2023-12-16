@@ -48,11 +48,9 @@ VALUES
  
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
-SELECT product.name AS product_name, provider.name AS provider_name, category.name AS category_name
-FROM products AS product
-INNER JOIN providers AS provider
-ON product.id_providers = provider.id
-INNER JOIN categories AS category
-ON product.id_categories = category.id
-WHERE provider.name = 'Sansul SA'
-AND category.name = 'Imported';
+SELECT p.name AS product_name, pr.name AS provider_name, c.name AS category_name
+FROM products AS p
+INNER JOIN providers AS pr ON p.id_providers = pr.id
+INNER JOIN categories AS c ON p.id_categories = c.id
+WHERE pr.name = 'Sansul SA'
+AND c.name = 'Imported';

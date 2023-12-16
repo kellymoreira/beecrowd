@@ -79,6 +79,8 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |2618|[Imported Products](https://www.beecrowd.com.br/judge/en/problems/view/2618) | [PostgreSQL](./Solutions-SQL/ImportedProducts)|Data Selection|
 |2619|[Super Luxury](https://www.beecrowd.com.br/judge/en/problems/view/2619) | [PostgreSQL](./Solutions-SQL/SuperLuxury)|Data Selection|
 |2620|[Orders in First Half](https://www.beecrowd.com.br/judge/en/problems/view/2620) | [PostgreSQL](./Solutions-SQL/OrdersInFirstHalf)|Data Selection|
+|2621|[Amounts Between 10 and 20](https://www.beecrowd.com.br/judge/en/problems/view/2621) | [PostgreSQL](./Solutions-SQL/AmountsBetween10and20)|Data Selection|
+
 
 
 

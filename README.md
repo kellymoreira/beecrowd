@@ -56,7 +56,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 
 <br>
 
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-18-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-19-purple)](https://github.com/kellymoreira/beecrowd/commits)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f425f.svg)](https://www.PostgreSQL.com)
 
 | ID | Title | Solution | Subject |

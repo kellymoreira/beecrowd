@@ -34,4 +34,4 @@ VALUES
 SELECT m.id, m.name
 FROM movies m
 JOIN prices p ON m.id_prices = p.id
-WHEREp.value < 2.00;
+WHERE p.value < 2.00;

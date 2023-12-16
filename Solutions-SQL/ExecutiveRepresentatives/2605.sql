@@ -56,8 +56,7 @@ VALUES
 
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
- SELECT product.name, provider.name
- FROM products product INNER JOIN providers provider ON
-      product.id_providers = provider.id
- WHERE products.id_categories = '6'
- 
+SELECT p.name, pr.name
+FROM products p 
+INNER JOIN providers pr ON p.id_providers = pr.id 
+WHERE p.id_categories = '6'

@@ -32,7 +32,7 @@ VALUES
  
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
- SELECT category.name, SUM(product.amount)
- FROM categories AS category INNER JOIN products AS product
- ON product.id_categories = category.id 
- GROUP BY category.name
+SELECT c.name, SUM(p.amount)
+FROM categories AS c INNER JOIN products AS p
+ON p.id_categories = c.id 
+GROUP BY c.name

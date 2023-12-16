@@ -35,6 +35,6 @@ VALUES
   
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
-SELECT customer.id, customer.name
-FROM customers AS customer
-WHERE NOT EXISTS (SELECT 1 FROM locations AS l WHERE customer.id = l.id_customers);
+SELECT c.id, c.name
+FROM customers AS c
+WHERE NOT EXISTS (SELECT 1 FROM locations AS l WHERE c.id = l.id_customers);

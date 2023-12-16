@@ -38,7 +38,7 @@ VALUES
   
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
-SELECT product.id, product.name
-FROM products product 
-INNER JOIN categories super ON product.id_categories = super.id 
-WHERE super.name LIKE 'super%';
+SELECT p.id, p.name
+FROM products p
+INNER JOIN categories c ON p.id_categories = c.id 
+WHERE c.name LIKE 'super%';

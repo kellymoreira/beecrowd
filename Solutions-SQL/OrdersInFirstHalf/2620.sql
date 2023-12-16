@@ -35,8 +35,8 @@ VALUES
   (6,	'05/08/2016',	3);
 
 -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
- 
-SELECT customer.name, ord.id AS order_number
-FROM customers customer
-JOIN orders ord ON customer.id = ord.id_customers
+
+SELECT c.name, ord.id AS order_number
+FROM customers c
+JOIN orders ord ON c.id = ord.id_customers
 WHERE ord.orders_date BETWEEN '2016-01-01' AND '2016-06-30';

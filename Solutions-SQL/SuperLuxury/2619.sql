@@ -48,12 +48,10 @@ VALUES
   (5,	'TV',	30,	3000.25,	2,	2);
   
  -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
- 
-SELECT product.name AS product_name, provider.name AS provider_name, product.price
-FROM products AS product
-INNER JOIN providers AS provider
-ON product.id_providers = provider.id
-INNER JOIN categories AS category
-ON product.id_categories = category.id
-WHERE product.price > 1000
-AND category.name = 'Super Luxury';
+
+SELECT p.name AS product_name,  pr.name AS provider_name, p.price
+FROM products AS p
+INNER JOIN providers AS pr ON p.id_providers = pr.id
+INNER JOIN categories AS c ON p.id_categories = c.id
+WHERE p.price > 1000
+AND c.name = 'Super Luxury';

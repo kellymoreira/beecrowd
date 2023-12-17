@@ -8,7 +8,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 
 ##
 
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-40-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-41-purple)](https://github.com/kellymoreira/beecrowd/commits)
 [![JavaScript](https://img.shields.io/badge/JavaScript-d8b024.svg)](https://www.JavaScript.com)
 
 | ID | Title | Solution | Subject |

@@ -30,29 +30,23 @@ console.log(lines);
 
 // COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
 
-function positivesAndAverage() {
-  // Input array
-  const numbers = ([N1, N2, N3, N4, N5, N6] = lines.map((line) =>
-    line.split(" ").map((item) => parseFloat(item))
-  ));
+let numbers = ([N1, N2, N3, N4, N5, N6] = lines.map((line) =>
+  line.split(" ").map((item) => parseFloat(item))
+));
 
-  let positiveCount = 0;
-  let positiveSum = 0;
+let positiveCount = 0;
+let positiveSum = 0;
 
-  // Sum positive numbers and count positive values
-  for (let i = 0; i < numbers.length; i++) {
-    for (let j = 0; j < numbers[i].length; j++) {
-      if (numbers[i] > 0) {
-        positiveCount++;
-        positiveSum += numbers[i][j];
-      }
+// Sum positive numbers and count positive values
+for (let i = 0; i < numbers.length; i++) {
+  for (let j = 0; j < numbers[i].length; j++) {
+    if (numbers[i] > 0) {
+      positiveCount++;
+      positiveSum += numbers[i][j];
     }
   }
-  // Calculate and display the average with one digit after the decimal point
-  console.log(`${positiveCount} valores positivos`);
-  const average = positiveSum / positiveCount;
-  console.log(average.toFixed(1));
 }
-
-// Run the function
-positivesAndAverage();
+// Calculate and display the average with one digit after the decimal point
+console.log(`${positiveCount} valores positivos`);
+const average = positiveSum / positiveCount;
+console.log(average.toFixed(1));

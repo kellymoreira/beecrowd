@@ -33,7 +33,8 @@ VALUES
   
  -- COPY AND PASTE INTO BEECROWD FROM THIS POINT ON --
 
-SELECT customers.name, rentals.rentals_date
-FROM customers
-JOIN rentals ON customers.id = rentals.id_customers
-WHERE rentals.rentals_date BETWEEN '2016-09-01' AND '2016-09-30';
+SELECT c.name AS customer_name, r.rentals_date
+FROM customers AS c
+JOIN rentals AS r ON c.id = r.id_customers
+WHERE r.rentals_date BETWEEN '2016-09-01' AND '2016-09-30';
+

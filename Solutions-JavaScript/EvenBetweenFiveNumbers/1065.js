@@ -27,21 +27,16 @@ console.log(lines);
 
 // COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
 
-function evenBetweenFiveNumbers() {
-  // Input array
-  const numbers = ([N1, N2, N3, N4, N5] = lines.map((line) =>
-    line.split(" ").map((item) => parseInt(item))
-  ));
+const numbers = ([N1, N2, N3, N4, N5] = lines.map((line) =>
+  line.split(" ").map((item) => parseInt(item))
+));
 
-  let evenCount = 0;
+let evenCount = 0;
 
-  for (let i = 0; i < 5; i++) {
-    if (numbers[i] % 2 === 0) {
-      evenCount++;
-    }
+for (let i = 0; i < 5; i++) {
+  if (numbers[i] % 2 === 0) {
+    evenCount++;
   }
-
-  console.log(`${evenCount} valores pares`);
 }
 
-evenBetweenFiveNumbers();
+console.log(`${evenCount} valores pares`);

@@ -27,24 +27,17 @@ console.log(lines);
 
 // COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
 
-function positiveNumbers() {
-  // Input array
-  const numbers = ([N1, N2, N3, N4, N5, N6] = lines.map((line) =>
-    line.split(" ").map((item) => parseFloat(item))
-  ));
+const numbers = ([N1, N2, N3, N4, N5, N6] = lines.map((line) =>
+  line.split(" ").map((item) => parseFloat(item))
+));
 
-  let positiveCount = 0;
+let positiveCount = 0;
 
-  // Count positive numbers
-  for (let i = 0; i < numbers.length; i++) {
-    if (numbers[i] > 0) {
-      positiveCount++;
-    }
+// Count positive numbers
+for (let i = 0; i < numbers.length; i++) {
+  if (numbers[i] > 0) {
+    positiveCount++;
   }
-
-  // Display the result
-  console.log(`${positiveCount} valores positivos`);
 }
 
-// Run the function
-positiveNumbers();
+console.log(`${positiveCount} valores positivos`);

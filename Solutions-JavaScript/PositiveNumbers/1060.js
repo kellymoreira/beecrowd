@@ -27,7 +27,7 @@ console.log(lines);
 
 // COPY AND PASTE INTO BEECROWD FROM THIS POINT ON:
 
-const numbers = ([N1, N2, N3, N4, N5, N6] = lines.map((line) =>
+let numbers = ([N1, N2, N3, N4, N5, N6] = lines.map((line) =>
   line.split(" ").map((item) => parseFloat(item))
 ));
 

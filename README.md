@@ -53,6 +53,8 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |1051|[Taxes](https://www.beecrowd.com.br/judge/en/problems/view/1051) | [JavaScript](./Solutions-JavaScript/Taxes/1051.js)|Selection|
 |1052|[Month](https://www.beecrowd.com.br/judge/en/problems/view/1052) | [JavaScript](./Solutions-JavaScript/Month/1052.js)|Selection|
 |1059|[Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [JavaScript](./Solutions-JavaScript/EvenNumbers/1059.js)|Repetition|
+|1060|[Positive Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1060) | [JavaScript](./Solutions-JavaScript/PositiveNumbers/1060.js)|Repetition|
+
 
 <br>
 

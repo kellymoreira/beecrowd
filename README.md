@@ -8,7 +8,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 
 ##
 
-[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-44-purple)](https://github.com/kellymoreira/beecrowd/commits)
+[![Soluções](https://img.shields.io/badge/Problemas%20Resolvidos-45purple)](https://github.com/kellymoreira/beecrowd/commits)
 [![JavaScript](https://img.shields.io/badge/JavaScript-d8b024.svg)](https://www.JavaScript.com)
 
 | ID | Title | Solution | Subject |
@@ -57,7 +57,7 @@ A plataforma aceita submissões em várias linguagens e é amplamente utilizada 
 |1064|[Positives and Average](https://www.beecrowd.com.br/judge/en/problems/view/1064) | [JavaScript](./Solutions-JavaScript/PositivesAndAverage/1064.js)|Repetition|
 |1065|[Even Between Five Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1065) | [JavaScript](./Solutions-JavaScript/EvenBetweenFiveNumbers/1065.js)|Repetition|
 |1066|[Even, Odd, Positive and Negative](https://www.beecrowd.com.br/judge/en/problems/view/1066) | [JavaScript](./Solutions-JavaScript/EvenOddPositiveAndNegative/1066.js)|Repetition|
-
+|1067|[Odd Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1067) | [JavaScript](./Solutions-JavaScript/OddNumbers/1067.js)|Repetition|
 
 
 
